@@ -1,2 +1,2 @@
-# covidAsistencia
-Proyecto de de covid asistencia realizado en flutter
+# CovidAsistencia
+Proyecto de de covid asistencia realizado en flutter.
